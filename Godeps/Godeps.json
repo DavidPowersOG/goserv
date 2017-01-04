@@ -1,0 +1,39 @@
+{
+	"ImportPath": "github.com/DavidPowersOG/goserv",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v75",
+	"Deps": [
+		{
+			"ImportPath": "github.com/blang/semver",
+			"Comment": "v3.3.0-2-g3a37c30",
+			"Rev": "3a37c301dda64cbe17f16f661b4c976803c0e2d2"
+		},
+		{
+			"ImportPath": "github.com/julienschmidt/httprouter",
+			"Comment": "v1.1-40-g5dd70ee",
+			"Rev": "5dd70ee059943e81987a817fa1a755b11dd119c1"
+		},
+		{
+			"ImportPath": "github.com/oschwald/geoip2-golang",
+			"Comment": "v1.0.0",
+			"Rev": "496a3cbcb65a3cb54497fe4ae2273319e85160a4"
+		},
+		{
+			"ImportPath": "github.com/oschwald/maxminddb-golang",
+			"Comment": "v1.1.0",
+			"Rev": "4cf6490e82edd288b91d6a786d85dab042015e24"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "d75a52659825e75fff6158388dddc6a5b04f9ba5"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/windows",
+			"Rev": "d75a52659825e75fff6158388dddc6a5b04f9ba5"
+		},
+		{
+			"ImportPath": "xojoc.pw/useragent",
+			"Rev": "0d6d2e03dc39412b8ed4c483f7afd159f3e43c69"
+		}
+	]
+}
